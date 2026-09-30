@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="20" viewBox="0 0 50 20">
+  <rect width="50" height="20" rx="4" fill="#eb2b51"/>
+  <circle cx="9" cy="10" r="3" fill="white" opacity="0.9"/>
+  <text x="17" y="14" font-family="system-ui,-apple-system,sans-serif" font-size="10" font-weight="700" fill="white" letter-spacing="0.8">LIVE</text>
+</svg>
